@@ -10,7 +10,7 @@
 
 ส่วนตัวแล้วจากตัวเริ่มต้นเพิ่ม 2,000 บาท ได้ตัวราคา 23,990 บาท ดูแล้วมีความคุ้มค่าน่าเล่นมากกว่า เพราะได้แรมหลักมากกว่าเป็น 8GB (ซื้อตัว 4GB มายังไงก็ต้องอัพเป็น 8GB อยู่ดี) และแรมการ์ดจอก็มากกว่าเป็น 4GB ซึ่งต้องบอกว่าเล่นเกมสมัยนี้ยังไงก็ต้องใช้แน่นอน ไม่งั้นอาจจะกระตุกหรือเล่นได้ไม่ลื่นเท่าไหร่นัก
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://notebookspec.com/acer-nitro-5-in-thailand-launch-price-start-21900-baht/411362/)
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
@@ -29,4 +29,4 @@ alert(s);
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-![Note8](http://cdn.gsmarena.com/imgroot/news/17/03/note8-galaxy-model-revealed/-728w2/gsmarena_002.jpg)
+![Note8](https://notebookspec.com/acer-nitro-5-in-thailand-launch-price-start-21900-baht/411362/)
