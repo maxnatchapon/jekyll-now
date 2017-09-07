@@ -19,8 +19,7 @@
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-var s = "JavaScript syntax highlighting";
+[logo]: http://www.acerspace.com/wp-content/uploads/2017/08/nitro-5-ftri.jpg "JavaScript syntax highlighting";
 alert(s);
 
 | Tables        | Are           | Cool  |
