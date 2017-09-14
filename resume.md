@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  Natchapon Potison
+title: Mysesume
+Natchapon Potison
 permalink: /resume/
 ---
 # Experience
