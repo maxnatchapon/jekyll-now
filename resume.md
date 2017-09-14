@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mysesume
-Ubon Ratchathani Rajabhat University
+title:
+
 permalink: /resume/
 ---
 # Mysesume
