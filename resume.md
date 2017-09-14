@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about ttbiw4218
+title: about Natchapon Potison
 permalink: /resume/
 ---
 # Experience- web Developer client Technical
