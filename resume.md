@@ -2,8 +2,9 @@
 layout: page
 title: resume
 permalink: /resume/
-resume
 ---
+# resume
+
 # Experience
 web Developer client Technical
 # Education
